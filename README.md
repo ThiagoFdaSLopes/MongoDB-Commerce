@@ -1,13 +1,14 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+#  MongoDB Commerce
+Nesse projeto, foi desenvolvido o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas. As instruções de como restaurar o banco podem ser lidas a seguir.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Stacks utilizada
+ - MongoDB: Foi criado querys para procurar, deletar, atualizar e criar no banco de dados de um Commerce da franquia do McDonald's.
+ 
+ ## Querys
+- Na pasta ``challenges`` possue arquivos ``js`` como sendo cada desafio feito durante o projeto.
+- Objetivo de cada query e manipular o bando de dados ``commerce`` que contem a collection ``produtos``.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+### Em Construção
+
+
+
